@@ -7,6 +7,24 @@
   font-weight: normal;
 }
 
+.bubble {
+  background-color: #333333;
+  border-radius: 15px;
+  padding: 10px;
+  margin: 10px;
+  box-shadow: 3px -3px 5px rgb(96, 96, 96);
+}
+.task {
+  background-color: #555555;
+  border-radius: 15px;
+  padding: 10px;
+  margin: 10px;
+}
+.light-theme {
+  background-color: rgb(222, 222, 222);
+  color: #000000;
+}
+
 a,
 .green {
   text-decoration: none;

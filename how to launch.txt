@@ -1,0 +1,2 @@
+cd C:\Users\NcH959\Desktop\-_-\Studies\Palmo course\vue\дз2\vue3-lesson4
+npm run dev
